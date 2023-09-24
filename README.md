@@ -6,7 +6,8 @@
 #### The steps to run the app locally
 
 
-* Clone the repository
+* Clone the repository by;
+  * git clone git@github.com:kuzeykoca/taskerpone.git
 * Run the commands below;
   * composer install
   * npm i
